@@ -1,0 +1,93 @@
+body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+                padding: 0;
+                    line-height: 1.6;
+                        color: #333;
+                        }
+
+                        header {
+                            background-color: #f4f4f4;
+                                padding: 1rem 0;
+                                }
+
+                                nav ul {
+                                    list-style: none;
+                                        text-align: center;
+                                        }
+
+                                        nav ul li {
+                                            display: inline;
+                                                margin: 0 1.5rem;
+                                                }
+
+                                                nav ul li a {
+                                                    text-decoration: none;
+                                                        color: #333;
+                                                            font-weight: 600;
+                                                            }
+
+                                                            #hero {
+                                                                background: linear-gradient(135deg, #6c757d, #343a40);
+                                                                    color: #fff;
+                                                                        text-align: center;
+                                                                            padding: 10rem 0;
+                                                                            }
+
+                                                                            .hero-content {
+                                                                                width: 80%;
+                                                                                    margin: 0 auto;
+                                                                                    }
+
+                                                                                    .hero-content h1 {
+                                                                                        font-size: 3rem;
+                                                                                            margin-bottom: 1rem;
+                                                                                            }
+
+                                                                                            .hero-content p {
+                                                                                                font-size: 1.2rem;
+                                                                                                    margin-bottom: 2rem;
+                                                                                                    }
+
+                                                                                                    .btn {
+                                                                                                        display: inline-block;
+                                                                                                            background-color: #007bff;
+                                                                                                                color: #fff;
+                                                                                                                    padding: 1rem 2rem;
+                                                                                                                        text-decoration: none;
+                                                                                                                            border-radius: 5px;
+                                                                                                                            }
+
+                                                                                                                            section {
+                                                                                                                                padding: 4rem 0;
+                                                                                                                                    text-align: center;
+                                                                                                                                    }
+
+                                                                                                                                    .section-content {
+                                                                                                                                        width: 80%;
+                                                                                                                                            margin: 0 auto;
+                                                                                                                                            }
+
+                                                                                                                                            .proyek-list {
+                                                                                                                                                display: flex;
+                                                                                                                                                    justify-content: space-around;
+                                                                                                                                                        flex-wrap: wrap;
+                                                                                                                                                            margin-top: 2rem;
+                                                                                                                                                            }
+
+                                                                                                                                                            .proyek-item {
+                                                                                                                                                                width: 30%;
+                                                                                                                                                                    background-color: #f4f4f4;
+                                                                                                                                                                        padding: 2rem;
+                                                                                                                                                                            margin-bottom: 2rem;
+                                                                                                                                                                                border-radius: 5px;
+                                                                                                                                                                                }
+
+                                                                                                                                                                                footer {
+                                                                                                                                                                                    background-color: #343a40;
+                                                                                                                                                                                        color: #fff;
+                                                                                                                                                                                            text-align: center;
+                                                                                                                                                                                                padding: 1rem 0;
+                                                                                                                                                                                                }
+                                                                                                                                                                                                
+}
